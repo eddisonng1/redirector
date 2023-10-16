@@ -1,0 +1,20 @@
+{
+  "name": "redirector",
+  "version": "1.0.0",
+  "description": "mean stack application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "MEAN",
+    "stack"
+  ],
+  "author": "Eddison Ng",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "underscore": "^1.13.6"
+  }
+}
